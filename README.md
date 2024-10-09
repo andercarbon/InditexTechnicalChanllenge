@@ -1,2 +1,2 @@
-# inditexTechnicalChanllenge
-Technical Challenge for Inditex Teach Leader
+# InditexTechnicalChanllenge
+Technical Challenge for Inditex Position
